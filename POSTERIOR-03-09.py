@@ -2,7 +2,6 @@
 """
 Created on Sat Mar  9 20:08:58 2024
 
-@author: SaadEarl
 """
 
 import scipy.stats as sts 
